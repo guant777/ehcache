@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE generatorConfiguration PUBLIC "-//mybatis.org//DTD MyBatis Generator Configuration 1.0//EN" "http://mybatis.org/dtd/mybatis-generator-config_1_0.dtd" >
+<!--<generatorConfiguration>-->
+
+<!--&lt;!&ndash;	&lt;!&ndash;  配置mysql连接驱动包路径 &ndash;&gt;&ndash;&gt;-->
+<!--&lt;!&ndash;	<classPathEntry location="/Users/mac/.m2/repository/mysql/mysql-connector-java/5.1.42/mysql-connector-java-5.1.42.jar" />&ndash;&gt;-->
+<!--&lt;!&ndash;	<context id="context2" defaultModelType="conditional" targetRuntime="MyBatis3">&ndash;&gt;-->
+<!--&lt;!&ndash;		&lt;!&ndash;  配置数据源参数 &ndash;&gt;&ndash;&gt;-->
+<!--&lt;!&ndash;		<jdbcConnection driverClass="com.mysql.jdbc.Driver" connectionURL="jdbc:mysql://服务器地址:3306/risk_management?useSSL=false" userId="用户名" password="密码" />&ndash;&gt;-->
+<!--&lt;!&ndash;		&lt;!&ndash;  配置自动生成实体路径 &ndash;&gt;&ndash;&gt;-->
+<!--&lt;!&ndash;		<javaModelGenerator targetPackage="com.ziroom.guant.model.DO" targetProject="src/main/java" />&ndash;&gt;-->
+<!--&lt;!&ndash;		&lt;!&ndash;  配置自动生成mapper.xml文件路径 &ndash;&gt;&ndash;&gt;-->
+<!--&lt;!&ndash;		<sqlMapGenerator targetPackage="mapper" targetProject="src/main/resources"/>&ndash;&gt;-->
+<!--&lt;!&ndash;		&lt;!&ndash;  配置自动生成mapper接口文件路径 &ndash;&gt;&ndash;&gt;-->
+<!--&lt;!&ndash;		<javaClientGenerator targetPackage="com.ziroom.guant.mapper" targetProject="src/main/java" type="XMLMAPPER" />&ndash;&gt;-->
+
+
+<!--&lt;!&ndash;		&lt;!&ndash; 根据数据表名，实体名称，生成实体类，DAO层文件 &ndash;&gt;&ndash;&gt;-->
+<!--&lt;!&ndash;		<table tableName="bz_backlog" domainObjectName="Backlog" enableSelectByExample="false" enableDeleteByExample="false" enableCountByExample="false"  enableUpdateByExample="false"/>&ndash;&gt;-->
+
+<!--&lt;!&ndash;	</context>&ndash;&gt;-->
+<!--</generatorConfiguration>-->
